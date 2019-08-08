@@ -1,0 +1,4 @@
+greet
+*.so
+third-party/en
+.envrc
